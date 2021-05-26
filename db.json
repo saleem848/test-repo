@@ -1,0 +1,10 @@
+{
+  "company": [
+    { "name": "Cognizant", "stock": "CTSH" }  
+  ],
+  "users": [
+    { "emailid": "trees12@gmail.com", "password": "Test$123" }  
+  ],
+  "employees": 
+  { "firstName": "John", "lastName": "Micheal", "employeeId": 12345, "age": 26, "address": "wolf of wall street" }              
+}
